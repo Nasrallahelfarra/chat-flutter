@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283516230499",
+    "project_id": "chattest-4f3dd",
+    "storage_bucket": "chattest-4f3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283516230499:android:1eaba9b67448e1f1349156",
+        "android_client_info": {
+          "package_name": "com.menacoders.flutter_app_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283516230499-h83aoehh05mis55khje1n100ei9qkpkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTCEkMH_X6XPNAGRvQm2XYR1HxB-T9GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283516230499-h83aoehh05mis55khje1n100ei9qkpkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
